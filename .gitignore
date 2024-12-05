@@ -1,0 +1,9 @@
+/assets
+/chroma_db
+__pycache__
+/venv
+.env
+.DS_Store
+.vscode
+.cursorignore
+.cursorrules
